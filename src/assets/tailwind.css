@@ -1,0 +1,27 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+html, body {
+   @apply text-root/md sm:text-root/sm xs:text-root/xs bg-primary;
+
+}
+
+
+:root {
+   --color-primary: #ffffff;
+   --color-secondary: #91a5c0;
+   --color-tertiary: hsl(173, 100%, 82%);
+   --color-quaternary: rgb(228, 228, 228);
+}
+
+*::selection {
+   @apply bg-tertiary;
+}
+
+*:active, *:focus {
+   outline: none;
+}
