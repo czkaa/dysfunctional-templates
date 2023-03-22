@@ -4,7 +4,7 @@
 
         <TemplateHeader class="z-50 sticky top-3 xs:top-6 xs:transform xs:-translate-y-2"/>
         
-        <TemplateGrid class="fixed top-0 left-0"/>
+        <TemplateGrid class="absolute top-0 left-0"/>
 
         <TemplateNav class="z-50 sticky top-40 xs:top-26 transform -translate-y-8 xs:-translate-y-12"/>
 

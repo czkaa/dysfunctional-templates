@@ -62,10 +62,14 @@ import bodyParser from "body-parser";
 
   onMounted(() => {
     console.log('MOUNTING')
-    fetchContent();
     
     setTimeout(() => {
+      let filterItems = document.querySelectorAll('.filter-outline, .filter-blur, .filter-outline-xs, .filter-blur-xl, .outline-tertiary')
+      for (const el of filterItems) {
+        el.style.transform = 'translateY(0.1px)'
+      }
       document.body.classList.add('mounted')
+
     }, 1)
   })
 
@@ -79,8 +83,6 @@ import bodyParser from "body-parser";
   }
   .mounted {
     opacity: 1;
-
-
   }
 
   .filter-outline {
