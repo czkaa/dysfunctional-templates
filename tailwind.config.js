@@ -6,12 +6,12 @@ module.exports = {
       lg: {'min': '1800px'},
       md: {'max': '1500px'},
       sm: {'max': '1000px'},
-      xs: {'max': '700px'},
+      xs: {'max': '900px'},
       'hover-hover': {'raw': '(hover: hover)'}
     },
     fontSize: {
       'root/md': '1.25vw',
-      'root/sm': '2vw',
+      'root/sm': '1.25vw',
       'root/xs': '2.5vw',
 
       xl: ['8.7vw', {

@@ -14,7 +14,7 @@
     <h3 class="text-sm filter-outline-xs mt-10 mb-3">2. Introducing the Course</h3>
 
     <p>This course aims at providing basic understanding of web development. For this purpose, on the technical side, we will start with a very basic introduction to HTML and CSS. We will not have a fully extensive course on everything there is to know. Instead, we want learn together how to extend our knowledge from there and share useful resources.</p>
-    <p>Content-wise, we will investigate the current web. More specifically, we will look at how conventions are shaped by template culture and what we might want to do differently. We will approximate this topic in small code experiments, investigating reoccuring website elements. In the end, these small experiments will compile into a collective, alternative website template. Thereby, we want to attain an understanding for contemporary discussion revolving around the web, for different tools and for the context in which websites are published.</p>
+    <p>Content-wise, we will investigate how the current web and its conventions are shaped by template culture. We will approximate this topic in small code experiments, investigating reoccuring website elements. In the end, these small experiments will compile into a collective, alternative website template. Thereby, we want to attain an understanding for contemporary discussion revolving around the web, for different tools and for the context in which websites are published.</p>
     <p>Learning from each other and sharing knowledge is an important part of the course. Every code snippet and observeration is therefore considered open-source and free for everyone else to use. We also try to make everything happen within the predefined course times – no homeworks.</p>
     <!-- Schedule -->
     <!--  -->
@@ -47,10 +47,8 @@
     <div class="border border-secondary p-3 my-3 mx-6 rounded-md">
         <ol class="list-decimal px-6">
             <li>Duplicate the boilerplate and give it a new name</li>
-            <li>Go to your favourite website</li>
-            <li>Open the inspector</li>
-            <li>Find 5 different tags on the website and paste them in your own HTML document</li>
-            <li>Research what their purpose is</li>
+            <li>Find 5 different tags <a href="https://htmlreference.io/" target="_blank">here</a> and paste them in your own HTML document</li>
+            <li>Add some example content</li>
             <li>Check how their default style looks in different browsers</li>
             <li>Explain them to your neighbour</li>
         </ol>
@@ -62,7 +60,7 @@
             <li>Chose a song, a short text or a poem which you like</li>
             <li>Find the text snippet and paste it into the index file</li>
             <li>Illustrate the text using only HTML elements. For example, use <a target="_blank" href="https://htmlreference.io/element/table/">tables</a>, <a target="_blank" href="https://htmlreference.io/element/h1/">headlines</a>, <a target="_blank" href="https://htmlreference.io/element/input/">input fields</a>, <a target="_blank" href="https://htmlreference.io/element/li/">lists</a>, <a target="_blank" href="https://htmlreference.io/element/summary/">summarys</a>.</li>
-            <li>Open your website in different browsers and check if it looks differently</li>
+            <li>Open your website in different browsers and check if it looks different</li>
             <li>Present your website to the group</li>
         </ol>
     </div>
@@ -87,9 +85,11 @@
         <ol class="list-decimal px-6">
             <li>Go to your favorite website</li>
             <li>Open the inspector</li>
-            <li>Change the look of as many elements as possible by changing the <a target="_blank" href="https://cssreference.io/property/background-color/">background color</a>, the <a target="_blank" href="https://cssreference.io/property/border/">border</a>, the <a target="_blank" href="https://cssreference.io/property/border-radius/">border radius</a> and the <a target="_blank" href="https://cssreference.io/property/box-shadow/">box shadow</a>. You can generate cool box shadows with <a target="_blank" href="https://html-css-js.com/css/generator/box-shadow/">this generator</a>. <i>Hint: Don't reload the browser or your changes will get lost.</i></li>
+            <li>Change the look of as many elements as possible by changing the <a target="_blank" href="https://cssreference.io/property/background-color/">background color</a>, the <a target="_blank" href="https://cssreference.io/property/border/">border</a> and the <a target="_blank" href="https://cssreference.io/property/border-radius/">border radius</a>.
+                <i>Hint: Don't reload the browser or your changes will get lost.</i></li>
+            <li>Advanced: Add <a target="_blank" href="https://cssreference.io/property/box-shadow/">box shadows</a>. You can generate cool box shadows with <a target="_blank" href="https://html-css-js.com/css/generator/box-shadow/">this generator</a>.</li>
             <li>Document the results with screenshots</li>
-            <li>Add the screenshots to our <a href="https://www.are.na/karen-czock/dt-output">are.na channel</a></li>
+            <li>Add the screenshots to our <a href="https://www.are.na/karen-czock/dt-output">are.na output channel</a></li>
         </ol>
     </div>
 
