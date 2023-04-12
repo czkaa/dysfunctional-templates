@@ -70,7 +70,7 @@
     <ol class="mt-3">
         <h4 class="text-sm filter-outline-xs">Collection</h4>
         <li><a href="http://sebastianlyserena.dk/" target="_blank">http://sebastianlyserena.dk/</a></li>
-        <li><a href="https://pitscher.net/index_v1.7.txt/" target="_blank">https://pitscher.net/index_v1.7.txt/</a></li>
+        <li><a href="https://pitscher.net/index_v1.7.txt" target="_blank">https://pitscher.net/index_v1.7.txt</a></li>
     </ol>
     
     <!-- 15:00–16:00 -->

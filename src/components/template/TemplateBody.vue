@@ -1,6 +1,6 @@
 <template>
-     <div class="w-10/12 sm:w-full p-4 bg-primary shadow-xs" :style="{maskImage: `url('/background.svg')`, maskSize: 'cover'}">
-     <!-- <div class="w-10/12 sm:w-full p-4 bg-primary shadow-xs" :style="{maskImage: `url('/dysfunctional-templates/background.svg')`, maskSize: 'cover'}"> -->
+     <!-- <div class="w-10/12 sm:w-full p-4 bg-primary shadow-xs" :style="{maskImage: `url('/background.svg')`, maskSize: 'cover'}"> -->
+     <div class="w-10/12 sm:w-full p-4 bg-primary shadow-xs" :style="{maskImage: `url('/dysfunctional-templates/background.svg')`, maskSize: 'cover'}">
         <SnippetResizable class="w-9/12 hover:bg-primary transition-all duration-500 mx-auto">
             <BasicInput 
             :resize="true" 
