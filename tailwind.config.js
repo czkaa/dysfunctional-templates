@@ -26,11 +26,11 @@ module.exports = {
         letterSpacing: '-0.015em',
         lineHeight: '1',
       }],
-      sm: ['1.5rem', {
+      sm: ['1.4rem', {
         letterSpacing: '-0.01em',
         lineHeight: '1',
       }],
-      xs: ['max(0.85rem, 14px)', {
+      xs: ['1.4rem', {
         letterSpacing: '-0.01em',
         lineHeight: '1.1',
       }]
@@ -39,8 +39,7 @@ module.exports = {
       colors: {
         'primary' : 'var(--color-primary)',
         'secondary' : 'var(--color-secondary)',
-        'tertiary' : 'var(--color-tertiary)',
-        'quaternary' : 'var(--color-quaternary)',
+        'tertiary' : 'var(--color-secondary)',
       },
       spacing: {
         '0.25' : '0.05rem',
@@ -77,6 +76,7 @@ module.exports = {
   variants: {
     extend: {
       width: ["responsive", "hover", "focus", "group-hover"],
+      blur: ["responsive", "hover", "focus", "group-hover"],
       height: ["responsive", "hover", "focus", "group-hover"],
       filter: ["responsive", "hover", "focus", "group-hover"],
       letterSpacing: ["responsive", "hover", "focus", "group-hover"],

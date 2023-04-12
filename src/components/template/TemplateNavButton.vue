@@ -1,8 +1,8 @@
 <template>
-    <button basic-nav-button class="relative group filter-outline"  ref="root">
+    <router-link :to="props.path" template-nav-button class="relative group filter-outline"  ref="root">
         <div class="wireframe-text whitespace-nowrap uppercase group-hover:tracking-widest transition-tracking duration-500 filter-blur">{{text}}</div>
         <div class="whitespace-nowrap uppercase w-full z-50 absolute top-0 group-hover:tracking-widest transition-tracking duration-500 text-primary filter-outline">{{props.text}}</div>
-    </button>
+    </router-link>
 </template>
 
 <script setup>
@@ -12,6 +12,6 @@
   
 const props = defineProps({
     text: String,
-    realText: String
+    path: String
 })
 </script>

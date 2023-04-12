@@ -40,8 +40,8 @@
 
     <defs>
         <filter id="outline-xs" color-interpolation-filters="sRGB">
-            <feDropShadow dx="0" dy="0" stdDeviation="0.3" in="SourceGraphic" flood-color="var(--color-secondary)" result="blur" flood-opacity="1"></feDropShadow>
-            <feColorMatrix mode="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 45 -7" in="blur" result="blur"></feColorMatrix>
+            <feDropShadow dx="0" dy="0" stdDeviation="0.5" in="SourceGraphic" flood-color="var(--color-secondary)" result="blur" flood-opacity="1"></feDropShadow>
+            <feColorMatrix mode="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 35 -7" in="blur" result="blur"></feColorMatrix>
         </filter>
     </defs>
 

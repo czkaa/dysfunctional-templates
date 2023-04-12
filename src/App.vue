@@ -13,14 +13,15 @@
           </transition>
         </router-view> -->
 
-      <!-- <transition name="slide">
-        <PageInput v-if="view === 'Input'"/>
-        <PageSchedule v-else-if="view === 'Schedule'"/>
-      </transition> -->
-
-      <!-- <LayoutNav class="fixed top-0 right-0"/> -->
+      <LayoutNav class="fixed top-0 right-0"/>
 
      <UtilityFilters/>
+
+     <router-view  v-slot="{ Component }">
+        <transition>
+          <component :is="Component" :key="route.path" :content="content"  v-if="route.name !== 'Home'"/>
+        </transition>
+      </router-view>
 
      <!-- <div :style="" class="fixed top-0 left-0 w-full h-full bg-red-200 mix-blend-color-burn"></div> -->
   </div>
@@ -113,13 +114,25 @@ import bodyParser from "body-parser";
 
   .slide-enter-active,
   .slide-leave-active {
-    transition: all 800ms ease-out;
+    transition: all 400ms ease-out;
     position: fixed;
+    @apply border-t border-secondary;
   }
 
   .slide-enter-from,
   .slide-leave-to {
     transform: translateX(100vw);
+  }
+
+  .fade-enter-active,
+  .fade-leave-active {
+    transition: all 1000ms ease-out;
+    @apply opacity-0;
+  }
+
+  .fade-enter-from,
+  .fade-leave-to {
+    @apply opacity-100;
   }
 
 </style>

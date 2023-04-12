@@ -11,7 +11,6 @@
         <TemplateBody class="mt-0 xs:mt-12"/>
 
         <TemplateFooter class="fixed bottom-1.5 xs:bottom-2 "/>
-
        
         <div class="fixed top-1/3 left-20 border-secondary border-l pb-10 -ml-0.25">
             <div class="w-1 h-6 bg-secondary rounded-full -ml-0.5 transform rotate-12 mt-4"/>
