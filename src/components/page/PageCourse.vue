@@ -9,7 +9,7 @@
           <a class="block text-xs underline" href="#session-1">Session 1 (11.02.1023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Introduction</h2></a>
           <a class="block text-xs underline" href="#session-2">Session 2 (11.02.1023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Why Does Everything Always Look the Same?</h2></a>
           <a class="block text-xs underline" href="#session-3">Session 3 (11.02.1023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">The Handmade Web</h2></a>
-          <a class="block text-xs underline" href="#session-4">Session 4 (11.02.1023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Ideas for a Website</h2></a>
+          <a class="block text-xs underline" href="#session-4">Session 4 (11.02.1023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Collective Coding</h2></a>
           <a class="block text-xs underline" href="#session-5">Session 5 (11.02.1023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Collective Coding</h2></a>
           <a class="block text-xs underline" href="#session-6">Session 6 (11.02.1023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Collective Coding</h2></a>
         </nav>
