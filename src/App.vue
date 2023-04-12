@@ -18,7 +18,7 @@
      <UtilityFilters/>
 
      <router-view  v-slot="{ Component }">
-        <transition>
+        <transition name="slide">
           <component :is="Component" :key="route.path" v-if="route.name !== 'Home'"/>
         </transition>
       </router-view>

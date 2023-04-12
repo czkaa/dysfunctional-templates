@@ -10,22 +10,15 @@
     What do you wish from this course?
     </p>
 
-    <!-- 10:30–11:00 -->
+    <!-- 10:00–10:30 -->
     <h3 class="text-sm filter-outline-xs mt-10 mb-3">2. Introducing the Course</h3>
 
     <p>This course aims at providing basic understanding of web development. For this purpose, on the technical side, we will start with a very basic introduction to HTML and CSS. We will not have a fully extensive course on everything there is to know. Instead, we want learn together how to extend our knowledge from there and share useful resources.</p>
     <p>Content-wise, we will investigate how the current web and its conventions are shaped by template culture. We will approximate this topic in small code experiments, investigating reoccuring website elements. In the end, these small experiments will compile into a collective, alternative website template. Thereby, we want to attain an understanding for contemporary discussion revolving around the web, for different tools and for the context in which websites are published.</p>
     <p>Learning from each other and sharing knowledge is an important part of the course. Every code snippet and observeration is therefore considered open-source and free for everyone else to use. We also try to make everything happen within the predefined course times – no homeworks.</p>
-    <!-- Schedule -->
-    <!--  -->
-
-    <!-- 11:00–11:30 -->
-
-    <!-- 11:00–11:30 -->
-    <h3 class="text-sm filter-outline-xs mt-10 mb-3">3. A Short and Random History of the (Templated) Web</h3>
     
-    <!-- 11:30–12:00 -->
-    <h3 class="text-sm filter-outline-xs mt-10 mb-3">4. Code Editor Setup </h3>
+    <!-- 10:30–11:00 -->
+    <h3 class="text-sm filter-outline-xs mt-10 mb-3">3. Code Editor Setup </h3>
     <ol class="list-decimal px-10 py-3 border border-secondary rounded-md mx-3">
         <li>Start <a target="_blank" href="https://code.visualstudio.com/">VS Code</a></li>
         <li>Install <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">VS Code Live Server</a></li>
@@ -35,8 +28,8 @@
         <li>Start a live server</li>
     </ol>
 
-    <!-- 13:00–14:30 -->
-    <h3 class="text-sm filter-outline-xs mt-10 mb-3">5. A Short Introduction to HTML </h3>
+    <!-- 11:00–12:00, 12:00–13:00 -->
+    <h3 class="text-sm filter-outline-xs mt-10 mb-3">4. A Short Introduction to HTML </h3>
 
     <ol class="mt-3 text-xs">
         <h4 class="text-sm filter-outline-xs">Tutorials</h4>
@@ -71,8 +64,8 @@
         <li><a href="https://pitscher.net/index_v1.7.txt" target="_blank">https://pitscher.net/index_v1.7.txt</a></li>
     </ol>
     
-    <!-- 15:00–16:00 -->
-    <h3 class="text-sm filter-outline-xs mt-10 mb-3">6. A Short Introduction to CSS </h3>
+    <!-- 13:00–14:30 -->
+    <h3 class="text-sm filter-outline-xs mt-10 mb-3">5. A Short Introduction to CSS </h3>
 
     <ol class="mt-3 text-xs">
         <h4 class="text-sm filter-outline-xs">Tutorials</h4>
