@@ -29,9 +29,9 @@
     <ol class="list-decimal px-10 py-3 border border-secondary rounded-md mx-3">
         <li>Start <a target="_blank" href="https://code.visualstudio.com/">VS Code</a></li>
         <li>Install <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">VS Code Live Server</a></li>
-        <li>Create a folder on your computer</li>
+        <li>Download the <a target="_blank" download href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">HTML boilderplate setup</a></li>
+        <li>Duplicate the folder and give it a new name</li>
         <li>Open the folder in VS code</li>
-        <li>Create an empty <i>index.html</i> file</li>
         <li>Start a live server</li>
     </ol>
 
@@ -46,7 +46,7 @@
     
     <div class="border border-secondary p-3 my-3 mx-6 rounded-md">
         <ol class="list-decimal px-6">
-            <li>Open an empty <a target="_blank" download href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">HTML boilderplate setup</a></li>
+            <li>Duplicate the boilerplate and give it a new name</li>
             <li>Go to your favourite website</li>
             <li>Open the inspector</li>
             <li>Find 5 different tags on the website and paste them in your own HTML document</li>
@@ -58,7 +58,7 @@
 
     <div class="border border-secondary p-3 my-3 mx-6 rounded-md">
         <ol class="list-decimal px-6">
-            <li>Open an empty <a target="_blank" download href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">HTML boilderplate setup</a></li>
+            <li>Duplicate the boilerplate and give it a new name</li>
             <li>Chose a song, a short text or a poem which you like</li>
             <li>Find the text snippet and paste it into the index file</li>
             <li>Illustrate the text using only HTML elements. For example, use <a target="_blank" href="https://htmlreference.io/element/table/">tables</a>, <a target="_blank" href="https://htmlreference.io/element/h1/">headlines</a>, <a target="_blank" href="https://htmlreference.io/element/input/">input fields</a>, <a target="_blank" href="https://htmlreference.io/element/li/">lists</a>, <a target="_blank" href="https://htmlreference.io/element/summary/">summarys</a>.</li>
@@ -97,9 +97,10 @@
         <ol class="list-decimal px-6">
             <li>Look around</li>
             <li>Pick a view, an object or an arrangement of objects which you find interesting</li>
-            <li>Open an empty <a target="_blank" download href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">HTML boilderplate setup</a></li>
+            <li>Duplicate the boilerplate and give it a new name</li>
             <li>Try to recreate it using only HTML and CSS. Check out different ways to position your elements <a target="_blanl" href="https://www.are.na/block/21328405">here</a></li>
             <li>Advanced: Make your website interactive using <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/:hover?retiredLocale=de">hover</a></li>
+            <li>Advanced: Make your website responsive using <a target="_blank" href="https://www.w3schools.com/css/css_rwd_mediaqueries.asp">media queries</a></li>
             <li>Present your website to the group</li>
         </ol>   
     </div>
