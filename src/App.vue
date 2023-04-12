@@ -19,7 +19,7 @@
 
      <router-view  v-slot="{ Component }">
         <transition>
-          <component :is="Component" :key="route.path" :content="content"  v-if="route.name !== 'Home'"/>
+          <component :is="Component" :key="route.path" v-if="route.name !== 'Home'"/>
         </transition>
       </router-view>
 
@@ -32,7 +32,7 @@
   import { useRoute } from 'vue-router'
   import { ref, computed, watch, onMounted } from 'vue'
   import { useStore } from 'vuex';
-import bodyParser from "body-parser";
+  import bodyParser from "body-parser";
   
   const store = useStore();
   const route = useRoute();

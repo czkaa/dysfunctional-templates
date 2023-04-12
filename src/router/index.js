@@ -18,7 +18,7 @@ const routes = [
   {
     name: 'Course',
     path: '/:pathMatch(.*)', 
-    component: Course
+    component: () => import(/* webpackChunkName: "about" */ '../views/Course.vue')
   }
 ]
 

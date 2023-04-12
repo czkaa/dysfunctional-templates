@@ -28,14 +28,14 @@
       </section>
     </div>
 
-    <content style="flex: 1" class="w-1/2 xs:w-full flex flex-col text-center text-xs overflow-y-scroll">
+    <div style="flex: 1" class="w-1/2 xs:w-full flex flex-col text-center text-xs overflow-y-scroll">
       <Sessions1 />
       <Sessions2 />
       <Sessions3 />
       <Sessions4 />
       <Sessions5 />
       <Sessions6 />
-    </content>    
+    </div>    
     
     <SnippetCloseButton class="fixed top-3 right-3 z-50"/>
   </div>
