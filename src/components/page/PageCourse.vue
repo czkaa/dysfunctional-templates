@@ -7,9 +7,9 @@
         <h2 class="text-lg italic mb-3 filter-outline">Sessions</h2>   
         <nav class="space-y-2">
           <a class="block text-xs underline" href="#session-1">Session 1 (14.04.2023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Introduction</h2></a>
-          <a class="block text-xs underline" href="#session-2">Session 2 (28.04.2023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Why Does Everything Always Look the Same?</h2></a>
+          <a class="block text-xs underline" href="#session-2">Session 2 (28.04.2023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Why Do All Websites Look the Same??</h2></a>
           <a class="block text-xs underline" href="#session-3">Session 3 (05.05.2023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">The Handmade Web</h2></a>
-          <a class="block text-xs underline" href="#session-4">Session 4 (16.05.2023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Collective Coding</h2></a>
+          <a class="block text-xs underline" href="#session-4">Session 4 (26.05.2023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Collective Coding</h2></a>
           <a class="block text-xs underline" href="#session-5">Session 5 (09.06.2023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Collective Coding</h2></a>
           <a class="block text-xs underline" href="#session-6">Session 6 (16.06.2023)<h2 class="text-sm text-center italic leading-none filter-outline-xs">Collective Coding</h2></a>
         </nav>
@@ -48,5 +48,11 @@
 
   a:hover {
     text-decoration: none;
+  }
+
+ 
+
+  .list-decimal > li {
+    @apply text-left;
   }
 </style>

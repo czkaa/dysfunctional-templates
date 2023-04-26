@@ -28,7 +28,7 @@ module.exports = {
       }],
       sm: ['1.4rem', {
         letterSpacing: '-0.01em',
-        lineHeight: '1',
+        lineHeight: '1.1',
       }],
       xs: ['1.4rem', {
         letterSpacing: '-0.01em',
