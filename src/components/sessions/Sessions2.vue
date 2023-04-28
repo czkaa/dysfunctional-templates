@@ -30,8 +30,6 @@
     <ol class="list-decimal px-10 py-3 border border-secondary rounded-md mx-3">
         <li>Go to <a target="_blank" href="https://jsfiddle.net/">JS Fiddle</a></li>
         <li>Type some HTML and CSS. Save and see what happens </li>
-        <li>Click on <i>Collaborate</i> and invite the person next to you to code</li>
-        <li>Code a little message and save the fiddle</li>
     </ol>
 
     <h3 class="text-md filter-outline-xs mt-16 mb-3">5. A Short Introduction to CSS II </h3>
