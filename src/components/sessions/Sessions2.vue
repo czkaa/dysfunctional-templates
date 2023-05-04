@@ -46,6 +46,7 @@
 
     <div class="border border-secondary p-3 my-3 mx-6 rounded-md">
         <ol class="list-decimal px-6">
+            <h4 class="text-sm filter-outline-xs">Still Lives</h4>
             In this exercise, we want to apply and deepen what we have learned so far about HTML and CSS. 
             <li>Check out the items arranged at the center of the room</li>
             <li>Check out the <a target="_blank" href="https://www.are.na/karen-czock/dt-starterkits">JSFiddle Starterkits.</a> They contain different starting points to position elments on a webpage as well as some sample CSS.</li>
@@ -67,6 +68,6 @@
   
     <h3 class="text-md filter-outline-xs mt-16 mb-3">6. Further Reading</h3>
 
-    <a class="block" target="_blank" href="https://html.energy/podcast.html">Balancing Creativity and Usability (Boris Müller)</a>
+    <a class="block" target="_blank" href="https://borism.medium.com/balancing-creativity-and-usability-9bb2cd0fe929">Balancing Creativity and Usability (Boris Müller)</a>
    </section>
 </template>
