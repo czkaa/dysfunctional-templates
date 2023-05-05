@@ -19,7 +19,7 @@
     <div class="border border-secondary p-3 my-3 mx-6 rounded-md">
         <ol class="list-decimal px-6">
          <h4 class="text-sm filter-outline-xs">Three-Words Websites</h4>
-            How far can we get without using our hands?
+            How far can we get without coding ourselves?
             <li>Write down three meaningful words – adjectives or nouns – and hand them to your left-hand neighbour</li>
             <li>Go to <a href="https://chat.openai.com/auth/login">Chat GPT</a> and start a new chat. If you haven't used it yet and don't want to create an account you can use a<a href="https://tempr.email/"> dumpster e-mail </a></li>
             <li>Try to make ChatGPT write you the code for a website that takes the three words as a theme, atmosphere or topic. <i>Hint: Usually it is best to start with a simple promt, e.g. "Can you provide the HTML and CSS Code for a Website that...".</i> </li>
