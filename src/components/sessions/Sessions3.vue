@@ -37,11 +37,11 @@
 
     <ol class="mt-3 text-xs">
         <h4 class="text-sm filter-outline-xs">Tutorials</h4>
-        <li><a href="https://jsfiddle.net/czkaa/8sexmw3j/139/" target="_blank">CSS UNITS</a></li>
-        <li><a href="" target="_blank"></a></li>
-        <li><a href="" target="_blank"></a></li>
-        <li><a href="" target="_blank"></a></li>
-        <li><a href="" target="_blank"></a></li>
+        <li><a href="https://jsfiddle.net/czkaa/8sexmw3j/139/" target="_blank">CSS Units</a></li>
+        <li><a href="https://jsfiddle.net/2orgy5a3/37/" target="_blank">CSS Grid</a></li>
+        <li><a href="https://jsfiddle.net/tm87fzbe/67/" target="_blank">CSS Flexbox</a></li>
+        <li><a href="https://jsfiddle.net/wvdxaL5e/46/" target="_blank">CSS Positioning</a></li>
+        <li><a href="https://jsfiddle.net/c2hae6g3/29/" target="_blank">CSS Padding/Margin</a></li>
     </ol>
 
     <div class="border border-secondary p-3 my-3 mx-6 rounded-md">
