@@ -37,7 +37,7 @@
 
     <ol class="mt-3 text-xs">
         <h4 class="text-sm filter-outline-xs">Tutorials</h4>
-        <li><a href="" target="_blank">CSS Layout</a></li>
+        <li><a href="https://jsfiddle.net/czkaa/8sexmw3j/139/" target="_blank">CSS UNITS</a></li>
         <li><a href="" target="_blank"></a></li>
         <li><a href="" target="_blank"></a></li>
         <li><a href="" target="_blank"></a></li>
@@ -50,7 +50,7 @@
             In this exercise we want to get a better understanding of how elements can be organized on a webpage.
             <li>Start by thinking of a concrete metaphor/analogue to build your site around. Is the site a building, a map, a garden, a piece of clothing? Does it exist in real life or do you imagine it?</li>
             <li>Make a wireframe – a small sketch of the structure of your website – with pen and paper. Is it a grid or is it organic? Try to keep it simple, abstract, and narrow it down to a few elements. </li>
-            <li>Start to build the strucutre in a <a target="_blank" href="https://jsfiddle.net/">JS Fiddle</a>. Is it scrollable? What happens, when I resize the window? </li>
+            <li>Start to build the structure in a <a target="_blank" href="https://jsfiddle.net/">JS Fiddle</a>. Is it scrollable? What happens when I resize the window? </li>
             <li>Style your webite. How can I add materiality within a browser?</li>
             <li>Add the link to your fiddle to the <a href="https://www.are.na/karen-czock/dt-output">are.na output channel</a></li>
         </ol>   
