@@ -26,11 +26,11 @@ module.exports = {
         letterSpacing: '-0.015em',
         lineHeight: '1',
       }],
-      sm: ['1.4rem', {
+      sm: ['1.3rem', {
         letterSpacing: '-0.01em',
         lineHeight: '1.1',
       }],
-      xs: ['1.4rem', {
+      xs: ['1.25rem', {
         letterSpacing: '-0.01em',
         lineHeight: '1.1',
       }]
