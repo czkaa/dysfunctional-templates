@@ -24,6 +24,8 @@
     <ol class="mt-3 text-xs">
         <h4 class="text-sm filter-outline-xs">Collection</h4>
         <li><a href="https://anideafora.website/" target="_blank">An Idea for a Website</a></li>
+        <li><a href="https://onoff.marco.land/" target="_blank">On Off</a></li>
+        <li><a href="http://work.damonzucconi.com/lilac-chaser/" target="_blank">Lilac Chaser</a></li>
         <li><a href="http://lesliu.glitch.me/index.html" target="_blank">Fifty Buttons</a></li>
         <li><a href="https://www.are.na/gemma-copeland/single-use-websites-x9wly9aiyia" target="_blank">Single Use Websites (Channel)</a></li>
 
